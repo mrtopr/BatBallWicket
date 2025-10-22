@@ -49,7 +49,6 @@ The rules are simple:
 ---
 
 ## 📸 Game Preview
-<img width="610" height="662" alt="image" src="https://github.com/user-attachments/assets/a23bcaa4-2716-4f2d-a6e0-1aa798a7e2bc" />
+<img width="596" height="631" alt="image" src="https://github.com/user-attachments/assets/2ca557d6-adaf-452a-b88d-fe33279790b2" />
 
-Example UI (looks like this):
 
